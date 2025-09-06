@@ -33,7 +33,7 @@ To create a survey in `everyaction`we can utilize the "Online Actions" Volunteer
 Writing might be too long to be useful, for now please see the training video. An audio track will be added in the near future.
 
 ### Training Video
-https://www.loom.com/share/eda549be82c345d5a679ea635f9e48cd?sid=63ee1000-99b7-4f95-b71f-982ade445b6b
+https://www.loom.com/share/eda549be82c345d5a679ea635f9e48cd?sid=9bb14e3c-12e4-4366-b704-5e737d9e62e0
 
 ## Activist Codes
 Activist codes are a core concept of Everyaction. They are tags or labels that can be applied to user profiles. This allows us to tag individuals automatically and strategically so we can query and bucket our contact lists by our defined tags to create dynamic subsets of our contacts to interact with.
