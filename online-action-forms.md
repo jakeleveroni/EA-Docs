@@ -29,7 +29,7 @@ There are a variety of forms to work with under the Engagement > Online Actions.
 - also show conditions that the user must accept before form submission (age requirements, and non promissory guarantees)
 
 ### Example Form
-<img src="windows_console.png">
+<img src="./assets/event-host-form.png">
 
 ## Story Collection Form
 - This is a form that allows us to collection stories or testimonial style responses from users.
